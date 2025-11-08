@@ -79,5 +79,3 @@ VALUES (2, '2025-01-08');
 
 INSERT INTO pagamento (fk_locacao_id, data_devolucao_real)
 VALUES (4, '2025-01-22');
-
-SELECT * FROM vw_extrato_cliente ORDER BY nome_cliente;
